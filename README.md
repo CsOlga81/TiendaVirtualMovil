@@ -15,6 +15,6 @@ Utilice una Arquitectura en capas enfocada en la mantenibilidad:
 * **`model`**: Que define las entidades del sistema (clases de datos)
 
 ## ⚙️ Configuración Actual
-En este momento, el proyecto esta en etapa inicial de desarrollo aun faltan empezar a modear las pantallas 
+En este momento, el proyecto esta en etapa inicial de desarrollo aun faltan empezar a moldear las pantallas 
 
 ## Gracias 

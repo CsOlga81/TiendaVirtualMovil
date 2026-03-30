@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TiendaVirtualMovil</string>
+    <string name="producto_texto">Producto aquí</string>
 </resources>
