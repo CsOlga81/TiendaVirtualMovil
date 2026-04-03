@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TiendaVirtualMovil">
         <activity
+            android:name=".ui.DetalleProductoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ProductosActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
